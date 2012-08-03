@@ -1,5 +1,9 @@
 # Tower-Example
 
+## Prerequisite
+
+Make sure MongoDB is running on the local machine. Refer to [here](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-debian-or-ubuntu-linux/) if you want to install it.
+
 ## Install
 
 First [setup the Tower.js development environment](http://towerjs.org/guides/development#environment), then run:
